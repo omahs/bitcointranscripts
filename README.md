@@ -88,7 +88,7 @@ media: https://www.youtube.com/watch?v=8TaY730YlMg
 
 There is usually some meta-data also usually at the top of each file that includes slides link and other data. That should all be translated as well.
 
-If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/config.toml) and translating the appropraite [i18n file](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/i18n) (this is another [repo](https://github.com/bitcointranscripts/bitcointranscripts.github.io)).
+If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/config.toml) and translating the appropriate [i18n file](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/i18n) (this is another [repo](https://github.com/bitcointranscripts/bitcointranscripts.github.io)).
 
 We'd love transcripts in other languages so we've made every effort to make i18n as easy as possible.
 
